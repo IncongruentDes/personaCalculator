@@ -1,0 +1,968 @@
+Faith 93 Maria
+healing 
+52	66	53	54	61 
+no 	no 	wk 	no 	rs 	nu 	no 	no 	ab 	no 
+Justice	89	Metatron 
+bless 
+54	61	60	57	42
+no 	no 	no 	no 	wk 	rp 	ab 	ab 	no 	wk 
+Death	83	Alice
+curse
+45	61	49	54	47
+no 	no 	no 	no 	no 	no 	rs 	rs 	wk 	rp 
+Devil	87	Beelzebub
+curse 
+55	61	54	56	42
+no 	no 	ab 	no 	no 	no 	no 	no 	wk 	rp 
+World	89	Izanagi-no-Okami-Picaro
+almighty
+54	61	56	58	45
+rs 	rs 	rs 	rs 	rs 	rs 	rs 	rs 	no 	no 
+Fool	95	Satanael
+almighty
+63	60	57	56	56
+rs 	rs 	rs 	rs 	rs 	rs 	rs 	rs 	nu 	ab 
+Faith	60	Orichalcum	
+almighty 
+60	60	60	60	60
+rs 	rs 	no 	no 	no 	no 	no 	no 	wk 	no 
+Lovers	85	Ishtar	
+healing 
+48	59	49	58	48
+no 	no 	no 	no 	nu 	wk 	no 	no 	no 	no 
+Star	93	Lucifer	
+almighty 
+61	59	59	56	51
+nu 	nu 	rs 	rs 	rs 	rs 	no 	no 	wk 	ab 
+Star	84	Hastur	
+wind 
+51	59	52	56	41
+no 	no 	rs 	no 	no 	ab 	nu 	no 	no 	nu 
+Judgement	92	Satan	
+ice 
+62	59	55	52	55
+no 	rs 	no 	rp 	no 	no 	no 	no 	no 	rp 
+Councillor	80	Vohu-Manah	
+almighty 
+46	59	45	56	41
+no 	no 	no 	no 	rs 	wk 	no 	no 	ab 	nu 
+Magician	86	Futsunushi	
+phys
+60	58	55	52	40
+rs 	no 	no 	no 	no 	no 	no 	wk 	no 	no 
+Emperor	84	Odin	
+elec
+53	58	54	52	42
+no 	no 	no 	no 	nu 	ab 	no 	no 	rp 	rp 
+Emperor	82	Baal	
+wind
+54	58	53	47	41
+no 	no 	rs 	no 	no 	ab 	no 	no 	rs 	no
+Priestess	83	Cybele	
+healing
+44	57	49	51	55
+no 	no 	rs 	no 	wk 	no 	no 	no 	nu 	no 
+Chariot	88	Chi-You	
+psy
+56	57	54	53	51
+rs 	rs 	no 	no 	no 	no 	nu 	wk 	no 	no 
+Temperance	84	Ardha	
+almighty
+54	56	55	54	40
+rs 	no 	no 	nu 	nu 	no 	no 	no 	no 	no 
+Star	80	Sraosha	
+bless
+47	56	45	56	43
+no 	no 	no 	no 	ab 	no 	no 	no 	rp 	wk 
+Judgement	90	Messiah-Picaro	
+almighty
+56	56	55	55	55
+no 	no 	rs 	rs 	rs 	rs 	rs 	rs 	rp 	wk 
+World	80	Izanagi-no-Okami	
+almighty
+52	56	46	48	45
+rs 	rs 	rs 	rs 	rs 	rs 	rs 	rs 	no 	no 
+Hermit	86	Fafnir	
+nuke
+61	55	58	48	43
+rp 	rp 	ab 	no 	rs 	no 	no 	ab 	no 	no 
+Magician	83	Surt	
+fire
+55	54	51	50	46
+no 	rs 	ab 	wk 	nu 	no 	no 	rs 	no 	no 
+Empress	85	Mother-Harlot	
+ice
+55	54	48	50	55
+no 	no 	no 	no 	rp 	no 	no 	no 	wk 	nu 
+Empress	81	Alilat	
+ice
+45	54	57	49	45
+rp 	rp 	wk 	ab 	no 	no 	nu 	no 	no 	wk
+Justice	81	Uriel	
+almighty
+50	54	49	55	42
+no 	no 	nu 	no 	no 	no 	no 	ab 	rp 	no 
+Tower	90	Mada	
+fire
+55	54	61	59	48
+no 	no 	ab 	wk 	no 	no 	rs 	nu 	no 	no 
+Judgement	87	Michael	
+almighty
+57	54	55	56	46
+no 	rs 	no 	no 	no 	no 	no 	no 	rp 	nu 
+Judgement	82	Shiva	
+psy
+55	54	53	53	38
+no 	no 	no 	nu 	rp 	no 	ab 	wk 	nu 	nu 
+Hermit	89	Ongyo-Ki	
+phys
+56	53	57	59	49
+rs 	no 	no 	no 	no 	no 	no 	no 	rp 	rp 
+Devil	82	Belial	
+curse
+52	53	51	48	49
+nu 	no 	no 	rs 	no 	no 	no 	no 	no 	nu 
+Priestess	77	Scathach	
+wind
+48	52	46	48	44
+no 	no 	no 	nu 	rp 	no 	no 	no 	no 	nu 
+Devil	74	Nebiros	
+curse
+45	52	44	46	42
+no 	no 	no 	no 	no 	no 	nu 	no 	wk 	rs 
+Tower	87	Yoshitsune	
+phys
+63	52	50	54	49
+nu 	no 	rs 	no 	rp 	no 	no 	no 	rp 	no 
+Fool	83	Vishnu	
+almighty
+56	51	49	57	43
+no 	no 	wk 	ab 	no 	no 	no 	no 	nu 	nu 
+Hierophant	76	Kohryu	
+psy
+43	51	50	53	38
+no 	no 	no 	no 	rp 	no 	nu 	wk 	nu 	no 
+Death	72	Mot	
+ailment
+43	51	48	42	39
+no 	rs 	no 	no 	ab 	wk 	no 	no 	no 	rp 
+Death	69	Thanatos-Picaro	
+almighty
+45	51	43	40	35
+rs 	no 	no 	no 	no 	no 	no 	no 	wk 	rp 
+Temperance	77	Gabriel	
+almighty
+43	51	48	54	42
+no 	no 	no 	no 	no 	no 	nu 	no 	ab 	no 
+Moon	75	Sandalphon	
+bless
+46	51	49	48	38
+rs 	rs 	no 	no 	no 	no 	no 	no 	rp 	nu 
+Fool	50	Crystal Skull	
+almighty
+50	50	50	50	50
+rs 	rs 	no 	no 	no 	wk 	no 	no 	no 	no 
+Hanged	82	Attis	
+fire
+49	50	48	54	52
+no 	no 	nu 	no 	no 	rp 	no 	no 	no 	wk
+Judgement	81	Messiah	
+almighty
+50	50	50	50	50
+no 	no 	rs 	rs 	rs 	rs 	rs 	rs 	rp 	wk 
+Fool	76	Raoul	
+almighty
+47	49	43	54	42
+no 	no 	no 	no 	no 	no 	no 	no 	wk 	nu 
+Justice	72	Throne	
+bless
+42	49	43	46	43
+no 	no 	nu 	no 	no 	nu 	no 	wk 	rp 	no 
+Fortune	69	Lakshmi	
+healing
+39	49	41	47	38
+no 	no 	wk 	rs 	no 	no 	no 	no 	rs 	no 
+Hanged	73	Macabre	
+curse
+48	49	42	48	39
+no 	no 	no 	no 	rs 	no 	no 	no 	wk 	nu 
+Death	65	Thanatos	
+almighty
+43	49	41	38	31
+rs 	no 	no 	no 	no 	no 	no 	no 	wk 	rp 
+Moon	70	Byakhee	
+fire
+42	49	43	51	32
+no 	no 	nu 	wk 	no 	nu 	no 	wk 	no 	nu 
+Sun	76	Asura	
+nuke
+52	48	51	49	35
+no 	no 	nu 	no 	no 	no 	wk 	rp 	no 	no 
+Councillor	71	Dionysus	
+ailment
+42	48	44	42	44
+no 	no 	no 	no 	rp 	no 	no 	no 	nu 	nu 
+JusticeP	75	Loki	
+curse
+53	47	46	47	39
+no 	no 	no 	no 	no 	no 	no 	no 	wk 	nu 
+Hermit	70	Loa	
+curse
+42	47	43	46	39
+no 	no 	rs 	no 	nu 	no 	wk 	rs 	wk 	no 
+Fool	67	Black-Frost	
+almighty
+44	46	41	42	35
+no 	no 	rp 	ab 	no 	no 	no 	nu 	no 	rp 
+Fortune	62	Asterius-Picaro	
+almighty
+46	46	36	36	29
+no 	no 	rs 	wk 	no 	no 	rs 	no 	no 	nu 
+Sun	66	Quetzalcoatl	
+wind
+41	46	41	43	34	
+no 	no 	nu 	no 	no 	rs 	wk 	no 	no 	no 
+FaithP	75	Cendrillon	
+bless
+55	46	36	51	44	
+no 	no 	no 	no 	no 	no 	no 	no 	nu 	wk 
+Emperor	66	Oberon	
+elec
+40	45	42	43	35	
+no 	no 	no 	no 	rs 	no 	nu 	wk 	no 	no 
+Lovers	78	Raphael	
+almighty
+57	45	49	55	35	
+no 	no 	no 	ab 	no 	no 	nu 	no 	nu 	no 
+Justice	68	Dominion	
+bless
+42	45	43	44	37	
+no 	no 	no 	no 	wk 	no 	no 	rp 	nu 	rs 
+Strength	80	Zaou-Gongen	
+fire
+57	45	50	56	39	
+no 	no 	rp 	no 	wk 	no 	no 	no 	nu 	nu 
+Hanged	60	Moloch	
+fire
+32	45	42	31	37	
+no 	no 	ab 	wk 	rs 	rs 	ab 	no 	no 	nu 
+Star	68	Vasuki	
+ailment
+42	45	44	42	38	
+no 	no 	no 	nu 	nu 	no 	no 	no 	no 	wk 
+Emperor	61	King-Frost	
+ice
+40	44	43	29	34	
+no 	no 	no 	ab 	no 	no 	no 	no 	nu 	no 
+Faith	76	Cu-Chulainn	
+almighty
+55	44	46	48	42	
+rs 	rs 	no 	no 	wk 	rp 	no 	no 	nu 	no 
+Fortune	56	Asterius	
+almighty
+43	43	32	32	25
+no 	no 	rs 	wk 	no 	no 	rs 	no 	no 	nu 	
+Tower	73	Mara	
+psy
+51	43	43	45	44	
+no 	nu 	ab 	no 	no 	no 	rp 	no 	rs 	nu
+Moon	60	Lilith	
+almighty
+33	43	37	39	35	
+no 	no 	wk 	rp 	no 	no 	no 	rp 	no 	nu 
+Faith	84	Siegfried	
+phys
+61	43	55	55	45	
+nu 	rs 	no 	rs 	nu 	no 	no 	wk 	no 	no 
+Devil	58	Baphomet	
+almighty
+34	42	36	38	31	
+no 	no 	rs 	no 	no 	no 	no 	no 	wk 	nu 
+Tower	59	Black-Rider	
+curse
+36	42	34	42	30	
+no 	no 	wk 	ab 	no 	no 	no 	no 	rs 	rs 
+Judgement	75	Abaddon	
+curse
+51	42	58	38	43	
+ab 	ab 	no 	no 	no 	no 	no 	no 	rs 	ab 
+Judgement	59	Trumpeter	
+almighty
+33	42	40	38	31	
+no 	no 	no 	ab 	rp 	no 	no 	no 	rp 	nu 
+Empress	63	Kali	
+fire
+43	41	39	39	34	
+no 	rp 	nu 	no 	no 	no 	rp 	no 	no 	rs 
+Councillor	62	Seiryu	
+ice
+38	41	43	37	34	
+no 	no 	no 	rs 	no 	no 	no 	wk 	no 	no 
+Councillor	57	Yatagarasu	
+fire
+35	41	30	40	32	
+no 	no 	no 	no 	no 	rs 	no 	no 	nu 	wk 
+Empress	56	Titania	
+nuke
+32	40	35	38	30	
+no 	no 	no 	no 	no 	no 	wk 	rs 	rs 	rs 
+Strength	74	Chimera	
+phys
+51	40	42	48	48	
+no 	no 	ab 	nu 	no 	wk 	no 	no 	no 	wk 
+Death	40	Hope Diamond	
+almighty
+40	40	40	40	40	
+rs 	rs 	no 	wk 	no 	no 	no 	no 	no 	no 
+Magician	63	Forneus	
+psy
+41	39	40	42	34	
+no 	no 	no 	ab 	wk 	no 	nu 	no 	no 	no 
+Priestess	53	Skadi	
+ice
+33	39	32	34	28	
+no 	no 	no 	rp 	no 	no 	no 	no 	no 	nu 
+Lovers	56	Parvati	
+psy
+33	39	33	39	31	
+no 	no 	no 	rp 	no 	no 	rs 	no 	rs 	wk 
+Chariot	64	Thor	
+elec
+44	39	43	38	35
+rs 	no 	no 	no 	nu 	no 	no 	no 	rs 	rs 	
+Fortune	52	Norn	
+almighty
+30	38	33	34	28	
+no 	no 	no 	no 	rp 	ab 	no 	no 	rs 	no 
+Strength	64	Hanuman	
+phys
+43	38	40	40	38	
+no 	rs 	no 	wk 	no 	no 	rs 	no 	rs 	no 
+Tower	48	Magatsu-Izanagi-Picaro	
+almighty
+40	38	35	27	11	
+no 	rs 	no 	no 	no 	no 	no 	wk 	nu 	nu
+Judgement	64	Yamata-no-Orochi	
+ice
+44	38	48	36	33	
+rs 	no 	no 	ab 	no 	rs 	no 	no 	no 	rs 
+Hierophant	67	Bishamonten	
+nuke
+51	37	42	44	34	
+no 	no 	ab 	wk 	no 	no 	no 	no 	rs 	rs 
+Death	62	Chernobog	
+ailment
+40	37	39	38	39	
+no 	rs 	wk 	ab 	nu 	no 	no 	no 	wk 	ab 
+Death	54	Pale-Rider	
+curse
+32	37	33	40	27	
+no 	no 	no 	no 	no 	rs 	no 	no 	wk 	rp 
+Temperance	55	Raja-Naga	
+elec
+33	37	36	35	31	
+no 	no 	no 	no 	nu 	no 	no 	no 	no 	no 
+Star	52	Garuda	
+wind
+30	36	29	39	29
+no 	no 	no 	no 	no 	rs 	no 	no 	rp 	no 	
+Faith	65	Atavaka	
+phys
+51	36	43	38	34	
+rs 	nu 	rp 	no 	no 	no 	no 	no 	no 	rs 
+Magician	43	Queen-Mab	
+almighty
+23	35	26	30	22	
+no 	no 	nu 	no 	rs 	wk 	no 	no 	no 	no 
+Priestess	50	Sarasvati	
+healing
+30	35	32	33	27	
+no 	no 	no 	nu 	rs 	no 	no 	wk 	no 	no 
+Emperor	52	Barong	
+elec
+33	35	33	37	25	
+no 	rs 	no 	no 	rs 	wk 	no 	no 	nu 	wk 
+Chariot	55	Cerberus	
+fire
+39	35	32	39	27	
+no 	no 	ab 	wk 	no 	no 	no 	rs 	no 	no 
+Hanged	35	Emperor's-Amulet	
+almighty
+35	35	35	35	35	
+rs 	rs 	no 	no 	wk 	no 	no 	no 	no 	no 
+Tower	51	Seth	
+fire
+32	35	30	35	28	
+no 	no 	rp 	no 	no 	nu 	no 	no 	wk 	rs 
+Tower	44	Magatsu-Izanagi	
+almighty
+37	35	32	25	10	
+no 	rs 	no 	no 	no 	no 	no 	wk 	nu 	nu 
+Moon	55	Tsukiyomi-Picaro	
+almighty
+41	35	36	40	20	
+rs 	no 	no 	no 	no 	no 	no 	wk 	rs 	rp 
+Faith	54	Okuninushi	
+psy
+39	35	33	32	30	
+no 	no 	no 	no 	rp 	wk 	nu 	wk 	no 	no 
+Magician	48	Rangda	
+curse
+28	34	30	33	26	
+rp 	rp 	nu 	no 	wk 	no 	no 	no 	wk 	nu 
+Hanged	51	Jatayu	
+wind
+31	34	29	36	30	
+no 	no 	no 	rs 	no 	rp 	no 	wk 	rs 	no 
+Fool	49	Bugs	
+almighty
+35	33	30	32	24	
+no 	no 	no 	no 	no 	no 	rs 	wk 	no 	nu 
+Hierophant	40	Daisoujou	
+bless
+21	33	24	24	25	
+rs 	no 	no 	no 	no 	no 	no 	no 	nu 	wk 
+Devil	45	Pazuzu	
+curse
+29	33	27	26	27	
+no 	no 	no 	no 	no 	rs 	no 	no 	wk 	nu 
+Empress	50	Dakini	
+phys
+34	32	34	28	29
+no 	nu 	rs 	no 	no 	no 	no 	no 	no 	no
+Empress	40	Hariti	
+elec
+21	32	24	23	27	
+no 	no 	no 	no 	no 	wk 	rs 	no 	rs 	no 
+Hierophant	52	Mishaguji	
+ailment
+32	32	32	32	35	
+rs 	no 	no 	wk 	nu 	no 	no 	no 	no 	ab 
+Justice	58	Melchizedek	
+bless
+37	32	40	39	33
+no 	no 	no 	no 	no 	wk 	rs 	no 	ab 	nu 	
+Fortune	46	Fortuna	
+wind
+23	32	29	34	27	
+no 	no 	nu 	no 	wk 	nu 	no 	no 	no 	no 
+Moon	50	Tsukiyomi	
+almighty
+38	32	33	37	17
+rs 	no 	no 	no 	no 	no 	no 	wk 	rs 	rp 
+Sun	47	Horus	
+almighty
+30	32	29	35	22	
+no 	no 	wk 	no 	nu 	no 	no 	no 	rp 	no 
+Priestess	40	Kikuri-Hime	
+healing
+22	31	24	28	22	
+no 	no 	wk 	no 	no 	nu 	no 	no 	rs 	no 
+Lovers	48	Narcissus	
+ailment
+27	31	29	33	31	
+no 	no 	wk 	no 	nu 	rs 	no 	no 	rs 	no 
+Sun	53	Ganesha	
+ailment
+39	31	37	33	26	
+rs 	rs 	no 	no 	no 	ab 	wk 	no 	no 	no 
+Lovers	42	Kushinada	
+healing
+24	30	26	28	25
+no 	no 	no 	wk 	no 	no 	no 	wk 	rp 	no 	
+Chariot	50	Athena-Picaro	
+almighty
+35	30	31	32	29	
+rs 	nu 	no 	no 	wk 	no 	no 	no 	no 	no 
+Hermit	42	Kumbhanda	
+ailment
+25	30	25	27	26	
+no 	no 	nu 	no 	no 	no 	wk 	no 	no 	rs 
+Fortune	39	Atropos	
+elec
+23	30	22	27	22
+no 	no 	wk 	no 	no 	nu 	no 	no 	no 	no 	
+Strength	30	Orlov	
+almighty
+30	30	30	30	30
+rs 	rs 	no 	no 	no 	no 	no 	no 	no 	wk 
+Councillor	44	Ananta	
+nuke
+26	30	31	27	25	
+no 	no 	no 	ab 	wk 	no 	no 	no 	no 	no 
+JusticeP	45	Robin-Hood	
+almighty
+32	29	28	29	24	
+no 	no 	no 	no 	no 	no 	no 	no 	rs 	wk
+Hermit	49	Koumokuten	
+phys
+37	29	34	29	25	
+rs 	no 	no 	wk 	no 	no 	no 	no 	rs 	no 
+Sun	43	Yurlungur	
+elec
+26	29	30	27	24	
+no 	no 	no 	no 	nu 	no 	wk 	no 	rs 	no 
+Emperor	36	Thoth	
+nuke
+21	28	21	24	21	
+no 	no 	no 	no 	no 	no 	wk 	nu 	nu 	rs 
+Temperance	45	Byakko	
+ice
+35	28	30	32	17	
+no 	no 	wk 	ab 	no 	no 	no 	wk 	no 	rs 
+Chariot	46	Athena	
+almighty
+33	27	29	29	27	
+rs 	nu 	no 	no 	wk 	no 	no 	no 	no 	no 
+Tower	41	Red-Rider	
+psy
+26	27	25	29	23
+no 	no 	no 	no 	no 	no 	no 	no 	wk 	nu 
+Tower	37	Belphegor	
+ice
+25	27	24	23	19
+no 	no 	wk 	rs 	rs 	no 	no 	rs 	no 	rp 
+Faith	39	Unicorn	
+bless
+20	27	25	28	24	
+no 	no 	no 	nu 	no 	no 	rs 	no 	nu 	wk 
+Justice	41	Power	
+bless
+30	26	28	25	21	
+no 	wk 	no 	no 	no 	rs 	no 	no 	nu 	wk 
+Fortune	35	Lachesis	
+ice
+18	26	22	25	21	
+no 	no 	no 	nu 	wk 	rs 	no 	no 	no 	no 
+Temperance	33	Mithra	
+bless
+19	26	19	24	18	
+no 	no 	no 	nu 	wk 	no 	no 	no 	nu 	no 
+Star	36	Kaiwan	
+almighty
+23	26	24	22	20	
+no 	nu 	no 	no 	no 	no 	nu 	wk 	no 	no 
+Priestess	25	Koh-i-Noor	
+almighty
+25	25	25	25	25
+rs 	wk 	no 	no 	no 	no 	no 	no 	no 	no 
+Sun	39	Mithras	
+nuke
+27	25	27	25	20	
+rs 	rs 	ab 	no 	no 	no 	wk 	nu 	no 	no 
+Fool	42	Ose	
+ailment
+32	24	25	31	21
+no 	nu 	rs 	no 	no 	no 	no 	no 	wk 	nu 
+Fool	38	Legion	
+psy
+24	24	30	23	20	
+rs 	no 	rs 	no 	no 	no 	rs 	no 	wk 	nu
+EmpressP	36	Milady	
+psy
+27	24	22	22	21
+no 	no 	no 	no 	no 	no 	rs 	wk 	no 	no 
+Strength	44	Valkyrie	
+phys
+33	24	28	29	25	
+no 	rs 	wk 	rp 	no 	no 	no 	no 	nu 	no 
+Death	37	Hell-Biker	
+fire
+23	24	24	30	17	
+no 	no 	rp 	no 	no 	rs 	no 	no 	wk 	no 
+Moon	43	Girimehkala	
+ailment
+32	24	32	29	19	
+rp 	rp 	rs 	no 	no 	no 	no 	no 	wk 	nu 
+Moon	33	Mothman	
+elec
+21	24	16	24	21
+no 	wk 	no 	no 	nu 	no 	rs 	no 	no 	no 
+Sun	34	Thunderbird	
+elec
+17	24	24	26	18
+no 	no 	no 	no 	ab 	no 	wk 	no 	no 	wk 
+Judgement	34	Anubis	
+almighty
+19	24	22	21	23
+no 	rs 	no 	no 	no 	no 	rs 	no 	nu 	nu
+Hermit	35	Arahabaki	
+ailment
+21	23	22	24	22
+rp 	rp 	no 	no 	no 	no 	wk 	wk 	rs 	rs 
+HermitP	31	Necronomicon	
+almighty
+17	23	20	21	35
+no 	no 	no 	no 	no 	no 	no 	no 	no 	no 
+Fortune	42	Ariadne-Picaro	
+almighty
+36	23	29	24	21
+no 	rs 	no 	no 	no 	no 	wk 	nu 	rs 	no 
+Devil	32	Lilim	
+ice
+17	23	18	25	20
+no 	no 	no 	rs 	no 	wk 	no 	no 	wk 	nu 
+Councillor	32	Decarabia	
+fire
+21	23	19	22	18
+wk 	no 	rp 	no 	no 	no 	no 	rs 	no 	rs 
+Hanged	42	Hecatoncheires	
+psy
+35	22	27	23	26
+no 	rs 	no 	no 	no 	no 	no 	no 	wk 	nu 
+Chariot	38	White-Rider	
+curse
+22	21	26	27	25
+no 	no 	nu 	wk 	no 	no 	no 	no 	nu 	rp 
+Death	28	Pisaca	
+curse
+19	21	21	16	14
+no 	no 	wk 	no 	rs 	no 	no 	no 	wk 	nu 
+Priestess	26	Isis	
+healing
+14	20	17	18	16
+no 	no 	no 	no 	no 	no 	wk 	no 	nu 	no 
+Fortune	20	Stone of Scone	
+almighty
+20	20	20	20	20
+rs 	rs 	wk 	no 	no 	no 	no 	no 	no 	no 
+Star	30	Neko-Shogun	
+almighty
+19	20	19	21	18
+rs 	no 	no 	no 	rs 	wk 	no 	no 	nu 	rs 
+Moon	25	Kaguya-Picaro	
+almighty
+17	20	19	15	11
+no 	no 	wk 	no 	no 	no 	no 	no 	nu 	nu 
+Fool	29	Orpheus-Picaro	
+almighty
+19	19	19	19	18
+no 	no 	no 	no 	wk 	no 	no 	no 	rs 	wk 
+Magician	28	Choronzon	
+curse
+16	19	19	18	19
+rs 	no 	ab 	no 	no 	no 	no 	no 	wk 	no 
+Justice	29	Principality	
+bless
+17	19	18	21	19
+no 	no 	rs 	no 	no 	no 	no 	no 	nu 	wk 
+Hermit	31	Kurama-Tengu	
+wind
+20	19	21	24	16
+no 	no 	no 	nu 	no 	rp 	no 	no 	rs 	rs 
+Fortune	30	Ariadne	
+almighty
+23	19	20	17	18
+no 	rs 	no 	no 	no 	no 	wk 	nu 	rs 	no 
+Fortune	27	Clotho	
+healing
+14	19	18	20	17
+no 	no 	no 	wk 	no 	nu 	no 	wk 	no 	no 
+Strength	31	Zouchouten	
+elec
+22	19	24	18	17
+rs 	no 	no 	no 	no 	wk 	no 	no 	no 	no 
+Hanged	26	Take-Minakata	
+elec
+17	19	18	16	15
+no 	no 	no 	no 	rs 	no 	wk 	no 	no 	rs 
+Devil	27	Andras	
+ice
+15	19	19	21	14
+no 	no 	wk 	rs 	no 	no 	rs 	no 	wk 	nu 
+Hierophant	25	Anzu	
+wind
+14	18	15	21	14
+no 	wk 	no 	no 	rs 	rp 	no 	wk 	no 	no 
+Chariot	30	Ara-Mitama	
+nuke
+20	18	20	20	19
+rs 	no 	no 	wk 	no 	no 	no 	no 	no 	no 
+Fool	26	Orpheus	
+almighty
+17	17	17	17	17
+no 	no 	no 	no 	wk 	no 	no 	no 	rs 	wk 
+Lovers	19	Leanan-Sidhe	
+almighty
+9	17	12	16	10
+no 	no 	wk 	no 	no 	rs 	rs 	no 	no 	no 
+Hermit	24	Naga	
+elec
+15	17	15	17	15
+no 	rs 	no 	no 	nu 	wk 	no 	no 	no 	no 
+Star	23	Fuu-Ki	
+wind
+14	17	16	15	14
+no 	rs 	no 	no 	wk 	ab 	no 	no 	no 	no 
+Emperor	25	Setanta	
+phys
+19	16	18	13	16
+no 	rs 	no 	no 	no 	no 	wk 	rs 	no 	no 
+Faith	27	Tam-Lin	
+almighty
+21	16	18	16	17
+rs 	no 	nu 	no 	no 	rs 	no 	no 	ab 	wk 
+Fool	23	Izanagi-Picaro	
+almighty
+16	15	15	16	14
+no 	no 	no 	no 	nu 	wk 	no 	no 	no 	nu
+PriestessP	21	Johanna	
+nuke
+15	15	14	15	11
+no 	no 	no 	no 	no 	no 	wk 	rs 	no 	no 
+Empress	26	Lamia	
+fire
+21	15	18	19	12
+no 	no 	no 	wk 	rs 	no 	no 	wk 	no 	nu 
+Empress	15	Queen's-Necklace	
+almighty
+15	15	15	15	15
+rs 	rs 	no 	no 	no 	no 	wk 	no 	no 	no 
+Strength	24	Rakshasa	
+phys
+20	15	18	17	9
+rs 	nu 	rs 	no 	no 	wk 	no 	no 	wk 	rs 
+Moon	24	Sui-Ki	
+ice
+16	15	15	18	15
+no 	rs 	no 	ab 	rs 	no 	no 	wk 	no 	no 
+Moon	16	Kaguya	
+almighty
+11	15	12	11	6
+no 	no 	wk 	no 	no 	rs 	no 	no 	nu 	nu 
+Faith	21	Phoenix	
+nuke
+12	15	15	17	11
+no 	no 	no 	rs 	wk 	nu 	no 	no 	no 	no 
+Councillor	22	Nigi-Mitama	
+healing
+13	15	15	16	14
+no 	no 	no 	no 	wk 	no 	no 	no 	rs 	rs 
+Fool	16	High-Pixie	
+healing
+8	14	10	13	10
+no 	wk 	no 	no 	rs 	rs 	no 	wk 	no 	no 
+Hierophant	17	Orobas	
+fire
+11	14	15	12	6
+no 	no 	no 	wk 	no 	rs 	no 	no 	no 	rs
+Chariot	18	Shiki-Ouji	
+psy
+16	14	12	9	10
+nu 	nu 	no 	no 	no 	no 	no 	wk 	nu 	nu 
+Hermit	17	Sudama	
+psy
+9	14	12	13	10
+no 	no 	no 	wk 	no 	rp 	no 	wk 	no 	no 
+Hanged	21	Orthrus	
+fire
+16	14	14	19	7
+no 	no 	ab 	wk 	no 	no 	no 	rs 	no 	no
+Fool	20	Izanagi	
+almighty
+14	13	13	14	13
+no 	no 	no 	no 	rs 	wk 	no 	no 	no 	nu 
+Magician	23	Sandman	
+wind
+11	13	14	17	21
+no 	no 	wk 	no 	wk 	rs 	no 	no 	no 	no 
+Chariot	25	Kin-Ki	
+phys
+21	13	21	15	12
+rs 	rp 	no 	no 	no 	no 	no 	no 	no 	no 
+Death	17	Matador	
+psy
+11	13	10	16	8
+no 	no 	no 	no 	wk 	nu 	no 	no 	no 	no 
+Temperance	15	Makami	
+nuke
+13	12	8	11	8
+no 	nu 	no 	no 	wk 	rs 	no 	rs 	nu 	no 
+Moon	12	Onmoraki	
+curse
+9	12	7	10	5
+no 	no 	rs 	wk 	no 	no 	no 	no 	wk 	nu 
+Sun	16	Suzaku	
+nuke
+9	12	10	15	9
+no 	no 	ab 	wk 	no 	no 	no 	rs 	no 	no 
+Fool	13	Orpheus-F-Picaro	
+almighty
+9	11	9	10	7
+no 	no 	no 	no 	wk 	no 	no 	no 	rs 	wk
+Priestess	11	Apsaras	
+ice
+7	11	6	10	6
+no 	no 	wk 	rs 	wk 	no 	no 	no 	no 	no 
+Empress	20	Yaksini	
+ice
+14	11	13	16	13
+no 	nu 	no 	rs 	no 	no 	no 	wk 	no 	no 
+Strength	15	Shiisaa	
+elec
+10	11	11	11	9
+rs 	no 	no 	no 	no 	no 	wk 	no 	nu 	wk 
+Temperance	22	Jikokuten	
+phys
+18	11	16	15	13
+rs 	no 	no 	no 	no 	no 	no 	no 	rs 	wk 
+Devil	19	Flauros	
+ailment
+15	11	13	14	11
+no 	no 	nu 	wk 	no 	rs 	no 	rs 	no 	no 
+Star	11	Kodama	
+ailment
+7	11	8	10	4
+no 	no 	wk 	rs 	no 	no 	no 	no 	no 	no 
+Councillor	12	Kusi-Mitama	
+healing
+7	11	9	8	8
+no 	no 	wk 	no 	no 	rs 	no 	no 	no 	no 
+Magician	17	Nekomata	
+ailment
+13	10	12	15	8
+no 	no 	no 	no 	wk 	no 	rs 	no 	no 	no 
+Emperor	16	Eligor	
+fire
+12	10	13	10	10
+no 	no 	rs 	no 	wk 	no 	no 	no 	no 	rs 
+Emperor	10	Regent	
+almighty
+10	10	10	10	10
+rs 	rs 	no 	no 	no 	no 	no 	wk 	no 	no 
+EmperorP	15	Goemon	
+ice
+13	10	11	10	8	
+no 	no 	wk 	rs 	no 	no 	no 	no 	no 	no 
+Lovers	13	Ame-no-Uzume	
+almighty
+7	10	9	11	9	no	no
+no 	no 	ab 	no 	no 	no 	wk 	no 	no 	no 
+Hanged	9	Hua-Po	
+fire
+4	10	4	8	8
+no 	wk 	rp 	wk 	no 	no 	no 	no 	no 	no 
+Death	20	Nue	
+curse
+16	10	17	14	10	
+no 	no 	wk 	rs 	no 	no 	no 	no 	no 	nu 
+Fool	11	Orpheus-F	
+almighty
+8	9	8	9	6
+no 	no 	no 	no 	wk 	no 	no 	no 	rs 	wk
+Magician	11	Jack-Frost	
+ice
+8	9	7	9	7
+no 	no 	wk 	nu 	no 	no 	no 	no 	no 	no 
+Justice	14	Archangel	
+bless
+11	9	10	12	7
+no 	no 	no 	no 	wk 	no 	no 	no 	nu 	wk 
+Justice	9	Angel	
+bless
+6	9	5	9	5
+no 	wk 	no 	no 	rs 	no 	no 	no 	nu 	wk 
+Strength	20	Oni	
+phys
+19	9	17	12	10
+rs 	rs 	no 	no 	no 	no 	no 	no 	no 	no 
+Hanged	14	Inugami	
+fire
+11	9	9	12	8
+no 	nu 	nu 	no 	no 	wk 	no 	no 	no 	nu
+Hermit	9	Koropokkuru	
+ice
+5	8	6	9	6
+no 	no 	wk 	rs 	no 	rs 	no 	no 	no 	no 
+Temperance	11	Koppa-Tengu	
+wind
+7	8	8	11	6
+no 	no 	no 	wk 	no 	rs 	no 	no 	wk 	no 
+Priestess	6	Silky	
+healing
+4	7	4	5	5
+no 	no 	wk 	rs 	wk 	no 	no 	no 	no 	no 
+Hermit	13	Ippon-Datara	
+phys
+11	7	14	6	8
+no 	rs 	rs 	wk 	no 	rp 	no 	no 	rs 	rs 
+Moon	18	Black-Ooze	
+curse
+15	7	16	8	15
+rs 	rs 	no 	rs 	wk 	no 	wk 	no 	wk 	nu 
+Moon	7	Succubus	
+curse
+4	7	5	8	4
+no 	no 	rs 	no 	no 	wk 	no 	no 	wk 	nu 
+Hierophant	9	Berith	
+phys
+9	6	8	8	3
+no 	nu 	rs 	wk 	no 	no 	no 	no 	no 	no 
+Lovers	6	Saki-Mitama	
+healing
+4	6	5	6	4
+no 	no 	no 	rs 	no 	wk 	no 	no 	no 	no 
+LoversP	5	Carmen	
+fire
+3	6	4	4	5
+no 	no 	rs 	wk 	no 	no 	no 	no 	no 	no 
+Chariot	10	Slime	
+curse
+9	6	11	6	5
+rs 	rs 	wk 	no 	no 	wk 	no 	no 	no 	no 
+Temperance	7	Genbu	
+ice
+5	6	7	6	4
+no 	no 	no 	nu 	wk 	no 	rs 	no 	no 	no 
+Devil	5	Incubus	
+ailment
+4	6	4	5	3
+no 	no 	wk 	no 	rs 	no 	no 	no 	wk 	no 
+Strength	6	Kelpie	
+wind
+5	5	5	6	4
+no 	no 	no 	rs 	wk 	no 	no 	no 	no 	no 
+Death	9	Mokoi	
+ailment
+9	5	6	10	4
+no 	no 	no 	no 	rs 	wk 	no 	no 	no 	no 
+Magician	5	Cait-Sith	
+ailment
+6	4	4	5	3
+no 	no 	no 	no 	rs 	wk 	no 	no 	no 	no 
+Chariot	3	Agathion	
+elec
+3	4	5	7	3
+no 	rs 	no 	no 	rs 	wk 	no 	no 	no 	no 
+Fool	8	Obariyon	
+phys
+7	3	9	8	4
+rs 	no 	no 	no 	wk 	no 	no 	no 	no 	no 
+Magician	2	Jack-o'-Lantern	
+fire
+2	3	3	3	2
+no 	no 	ab 	wk 	no 	wk 	no 	no 	no 	no 
+MagicianP	1	Zorro	
+wind
+2	3	1	3	1
+no 	no 	no 	no 	wk 	rs 	no 	no 	no 	no 
+Lovers	2	Pixie	
+elec
+1	3	3	4	2
+no 	wk 	no 	wk 	rs 	no 	no 	no 	rs 	wk 
+ChariotP	4	Captain-Kidd	
+elec
+5	3	6	3	3
+no 	no 	no 	no 	rs 	wk 	no 	no 	no 	no 
+Hermit	4	Bicorn	
+wind
+5	3	3	5	3
+no 	no 	no 	no 	wk 	no 	no 	no 	no 	rs 
+Death	3	Mandrake	
+elec
+2	3	3	4	4
+no 	no 	wk 	no 	rs 	no 	no 	no 	no 	no 
+Fool	1	Arsene	
+curse
+2	2	2	3	1
+no 	no 	no 	wk 	no 	no 	no 	no 	wk 	rs 
